@@ -1,0 +1,12 @@
+predkosc fali - 5m/s
+predkosc zrodla  = 3m/s
+czestotliwosc drgan zrodla
+czyli jednocześnie czestotliwosc fali gdy zrodlo spoczywa to 2Hz
+wyznacz długość fali i częstotliwość jaką zajerestruje nieruchomy obserwator do którego zbliża się zrodlo fali
+
+f = 2Hz
+Vżr = 3m/s
+Vf = 5m/s
+
+3m/s / 5m/s * 2Hz = 1.2
+f = 3.2Hz

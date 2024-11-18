@@ -1,0 +1,38 @@
+T - Wyższe kwasy karboksylowe
+
+Nasycone kwasy karboksylowe
+-C15 H31 COOH (kwas palmitynowy)
+-C17 H35 COOH (kwas stearynowy)
+
+Nienasycony kwas karboksylowy
+--C17 H33 COOH (kwas oleinowy)
+
+Ulegają spalani całkowitym, nie ulegają dysocjacji jonowej w wodzie (w przeciwieństwie do niższych)
+
+Niższe:
+-ulegają dysocjacji w wodzie
+-odczyn kwasowy
+-zabarwiają papierki uniwersalne na czerwono
+-rozpuszczają się w wodzie
+-ciecze
+
+Wyższe:
+-nie ulegają dysocjacji
+-odczyn obojętny
+-nie zabarwia papierka uniwersalnego
+-nie rozpuszczają się w wodzie
+-ciecze gęste lub ciała stałe
+-pod wpływem ogrzewania topią się
+
+
+Kwas oleinowy odbarwia wodę bromową i roztwór nadmanganianu potasu
+Nie reagują z metalami i tlenkami metali
+Reagują z wodorotlenkami tworząc mydła
+
+C17 H35 COOH + NaOH -> C17 H35 COONa + H2 O
+C15 H31 COOH + NaOH -> C15 H31 COONa + H2 O
+C17 H33 COOH + NaOH -> C17 H33 COONa + H2 O
+
+
+
+

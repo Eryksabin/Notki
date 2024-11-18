@@ -1,0 +1,22 @@
+T - Kwasy karboksylowe
+
+R - COOH
+
+Podział kwasów karboksylowych:
+-monokarboksylowe (jedna grupa karboksylowa np. kwas etanowy CH3COOH)
+-polikarboksylowe (więcej niż jedna grupa np. kwas etanodiowy)
+
+Ze względów na rodzaj łańcucha węglowodorowego
+-aromatyczne
+-alifatyczne->cykloalifatyczne
+-łańcuchowe->niższe
+		   ->wyższe
+
+CH3 - CH2 - CH2 - COOH  -> kwas butanowy
+
+	 CH3
+	    |
+CH3 - CH - CH2 -CH2 -COOH  -> kwas 4-metylopentanowy
+
+Kwasy karboksylowe w wodzie dysocjują na kation wodoru i aniony reszty kwasowej
+

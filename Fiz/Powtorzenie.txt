@@ -1,0 +1,3 @@
+Interferencja  - nakładanie się fali w przestrzeni
+Dyfrakcja - przejście fali przez-półprzeszkodę zamieniając fale płaską na kulistą
+
